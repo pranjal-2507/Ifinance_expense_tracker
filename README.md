@@ -88,8 +88,8 @@ npm run dev
 
 **🌍 Live Application**
 
-- **Frontend**: [iFinance Live](https://ifinance.netlify.app/)  
-- **Backend API**: [Production Server (Render)](https://pranjal-s56-capstone-expense-tracker.onrender.com)
+- **Frontend**: [iFinance Live](https://ifinance-expense-tracker.vercel.app/)  
+- **Backend API**: [Production Server (Render)](https://ifinance-expense-tracker.onrender.com)
 
 ---
 
